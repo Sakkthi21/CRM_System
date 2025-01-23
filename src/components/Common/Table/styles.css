@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+  min-height: 20vh;
+}
+
+tr,
+td {
+  text-align: left;
+}
+
+.action-field {
+  display: flex;
+  width: 5%;
+}
